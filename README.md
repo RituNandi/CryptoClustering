@@ -24,15 +24,15 @@ Best value for k = 4
 2. Elbow curve for the PCA data.
 The best k value found using the PCA data seems to be the same 4  as the best k value found using the original data.
 
-![alt text](image-1.png)
+![alt text](Image/image-1.png)
 
 3. Scatter plot of cryptocurrency clusters based on the original data.
 
-![alt text](image-2.png)
+![alt text](Image/image-2.png)
 
 4. Scatter plot of cryptocurrency clusters based on the PCA data.
 
-![alt text](image-3.png)
+![alt text](Image/image-3.png)
 
 ## Conclusion
 
