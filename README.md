@@ -16,23 +16,23 @@ The Crypto Clustering project aims to predict if cryptocurrencies are affected b
 
 ## Results
 
-1. Elbow curve for the original data.
-<br>   
-Best value for k = 4
+1. **Elbow curve for the original data.**
+   <br>   
+   Best value for k = 4
 
 ![alt text](Image/image.png)
 
-2. Elbow curve for the PCA data.
-<br>   
-The best k value found using the PCA data seems to be the same 4  as the best k value found using the original data.
+2. **Elbow curve for the PCA data.**
+   <br>   
+   The best k value found using the PCA data seems to be the same 4  as the best k value found using the original data.
 
 ![alt text](Image/image-1.png)
 
-3. Scatter plot of cryptocurrency clusters based on the original data.
+3. **Scatter plot of cryptocurrency clusters based on the original data.**
 
 ![alt text](Image/image-2.png)
 
-4. Scatter plot of cryptocurrency clusters based on the PCA data.
+4. **Scatter plot of cryptocurrency clusters based on the PCA data.**
 
 ![alt text](Image/image-3.png)
 
