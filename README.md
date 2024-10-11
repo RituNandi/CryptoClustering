@@ -19,7 +19,7 @@ The Crypto Clustering project aims to predict if cryptocurrencies are affected b
 1. Elbow curve for the original data.
 Best value for k = 4
 
-![alt text](image.png)
+![alt text](Image/image.png)
 
 2. Elbow curve for the PCA data.
 The best k value found using the PCA data seems to be the same 4  as the best k value found using the original data.
